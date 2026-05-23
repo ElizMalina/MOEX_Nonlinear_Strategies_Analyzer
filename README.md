@@ -1,0 +1,1 @@
+# MOEX_Nonlinear_Strategies_Analyzer
